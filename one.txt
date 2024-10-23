@@ -1,2 +1,3 @@
 this is the first text file 
 dark-mode added
+added another functionality 
